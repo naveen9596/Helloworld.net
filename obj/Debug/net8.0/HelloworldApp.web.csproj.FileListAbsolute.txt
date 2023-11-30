@@ -28,3 +28,4 @@ D:\TN Aspire\Dotnetdemo\HelloworldApp.web\obj\Debug\net8.0\refint\HelloworldApp.
 D:\TN Aspire\Dotnetdemo\HelloworldApp.web\obj\Debug\net8.0\HelloworldApp.web.pdb
 D:\TN Aspire\Dotnetdemo\HelloworldApp.web\obj\Debug\net8.0\HelloworldApp.web.genruntimeconfig.cache
 D:\TN Aspire\Dotnetdemo\HelloworldApp.web\obj\Debug\net8.0\ref\HelloworldApp.web.dll
+D:\TN Aspire\Dotnetdemo\HelloworldApp.web\obj\Debug\net8.0\HelloworldApp.web.sourcelink.json
